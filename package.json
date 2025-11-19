@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "exp tut by simplilearn",
+  "homepage": "https://github.com/abhi2006-as/task-3#readme",
+  "bugs": {
+    "url": "https://github.com/abhi2006-as/task-3/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhi2006-as/task-3.git"
+  },
+  "license": "ISC",
+  "author": "simplilearn",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
